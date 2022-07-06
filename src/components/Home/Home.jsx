@@ -60,7 +60,6 @@ const Home = () => {
         <div className="card">
           <div className='card-header'> 
             <h2 className="header">NASA API</h2>
-            Hhx2SH25TTzX5z1IhTqIUtaVYbzr1AKWeC6KpGqu
           </div>
         <div className="card-stacked">
           <div className="card-content">
