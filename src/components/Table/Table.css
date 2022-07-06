@@ -1,0 +1,8 @@
+.sortButton {
+  cursor: pointer;
+  display: inline-block;
+}
+
+.header {
+  padding: 1rem;
+}
